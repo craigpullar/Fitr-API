@@ -48,7 +48,8 @@ server.start((err) => {
     if (!err) console.log("Server running at :" + server.info.uri);
     else console.log(err); 
     // let db = require('./database');
-    // db.connect('localhost', 28015, '', '');
+    // db.connect('localhost', 28015, '', 'Fitr');
+
 });
 
 

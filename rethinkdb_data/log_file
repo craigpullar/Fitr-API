@@ -13,3 +13,55 @@
 2017-04-06T09:56:50.437115000 0.103343s notice: Listening on http addresses: 127.0.0.1, ::1
 2017-04-06T09:56:50.437118000 0.103345s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
 2017-04-06T09:56:50.437120000 0.103348s notice: Server ready, "HA501705_2dk" caa10fa9-6b93-4434-8044-17ff1cd304d6
+2017-07-26T05:37:37.796132000 0.054521s notice: Recursively removing directory /Users/cpullar/Documents/Development/Personal-Projects/Fitr-API/rethinkdb_data/tmp
+2017-07-26T05:37:37.798020000 0.056412s notice: Running rethinkdb 2.3.5 (CLANG 7.3.0 (clang-703.0.31))...
+2017-07-26T05:37:37.804287000 0.062676s notice: Running on Darwin 16.6.0 x86_64
+2017-07-26T05:37:37.804331000 0.062719s notice: Loading data from directory /Users/cpullar/Documents/Development/Personal-Projects/Fitr-API/rethinkdb_data
+2017-07-26T05:37:37.830122000 0.088510s info: Automatically using cache size of 4857 MB
+2017-07-26T05:37:37.831104000 0.089492s notice: Listening for intracluster connections on port 29015
+2017-07-26T05:37:37.832621000 0.091009s notice: Listening for client driver connections on port 28015
+2017-07-26T05:37:37.832733000 0.091121s notice: Listening for administrative HTTP connections on port 8080
+2017-07-26T05:37:37.832735000 0.091123s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-07-26T05:37:37.832738000 0.091126s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-07-26T05:37:37.832740000 0.091127s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-07-26T05:37:37.832743000 0.091131s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-07-26T05:37:37.832747000 0.091134s notice: Server ready, "HA501705_2dk" caa10fa9-6b93-4434-8044-17ff1cd304d6
+2017-07-26T05:37:38.446109000 0.704533s notice: A newer version of the RethinkDB server is available: 2.3.6. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2017-07-26T06:19:13.518529000 2495.859587s info: Table ee0e8f46-c9d6-4fb5-ab4e-d570c8f12065: Starting a new Raft election for term 1.
+2017-07-26T06:19:13.518728000 2495.859786s info: Table ee0e8f46-c9d6-4fb5-ab4e-d570c8f12065: Added replica on this server.
+2017-07-26T06:19:13.530444000 2495.871503s info: Table d96cfc38-ce6c-41ab-ac0f-038e5ea5d7aa: Starting a new Raft election for term 1.
+2017-07-26T06:19:13.530627000 2495.871685s info: Table d96cfc38-ce6c-41ab-ac0f-038e5ea5d7aa: Added replica on this server.
+2017-07-26T06:19:13.544095000 2495.885154s info: Table 9b5bab9d-0735-47e0-bdaa-c11ef63618ea: Starting a new Raft election for term 1.
+2017-07-26T06:19:13.544390000 2495.885449s info: Table 9b5bab9d-0735-47e0-bdaa-c11ef63618ea: Added replica on this server.
+2017-07-26T06:19:13.553562000 2495.894623s info: Table ee0e8f46-c9d6-4fb5-ab4e-d570c8f12065: This server is Raft leader for term 1. Latest log index is 0.
+2017-07-26T06:19:13.553886000 2495.894946s info: Table d96cfc38-ce6c-41ab-ac0f-038e5ea5d7aa: This server is Raft leader for term 1. Latest log index is 0.
+2017-07-26T06:19:13.559809000 2495.900868s info: Table 9b5bab9d-0735-47e0-bdaa-c11ef63618ea: This server is Raft leader for term 1. Latest log index is 0.
+2017-07-26T09:25:33.347944000 8207.568667s notice: Server got SIGINT from pid 1132, uid 1637826892; shutting down...
+2017-07-26T09:25:33.348076000 8207.568799s notice: Shutting down client connections...
+2017-07-26T09:25:33.348136000 8207.568858s notice: All client connections closed.
+2017-07-26T09:25:33.348139000 8207.568861s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-07-26T09:25:33.354761000 8207.575484s notice: Storage engine shut down.
+2017-07-28T10:31:08.993302000 0.074882s notice: Running rethinkdb 2.3.5 (CLANG 7.3.0 (clang-703.0.31))...
+2017-07-28T10:31:08.998854000 0.080430s notice: Running on Darwin 16.6.0 x86_64
+2017-07-28T10:31:08.998889000 0.080464s notice: Loading data from directory /Users/cpullar/Documents/Development/Personal-Projects/Fitr-API/rethinkdb_data
+2017-07-28T10:31:09.027483000 0.109059s info: Automatically using cache size of 2079 MB
+2017-07-28T10:31:09.028483000 0.110059s notice: Listening for intracluster connections on port 29015
+2017-07-28T10:31:09.069040000 0.150616s notice: Listening for client driver connections on port 28015
+2017-07-28T10:31:09.069130000 0.150706s notice: Listening for administrative HTTP connections on port 8080
+2017-07-28T10:31:09.069132000 0.150707s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-07-28T10:31:09.069133000 0.150708s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-07-28T10:31:09.069178000 0.150753s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-07-28T10:31:09.069181000 0.150756s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-07-28T10:31:09.069182000 0.150757s notice: Server ready, "HA501705_2dk" caa10fa9-6b93-4434-8044-17ff1cd304d6
+2017-07-28T10:31:10.125735000 1.207343s info: Table d96cfc38-ce6c-41ab-ac0f-038e5ea5d7aa: Starting a new Raft election for term 2.
+2017-07-28T10:31:10.135012000 1.216620s info: Table d96cfc38-ce6c-41ab-ac0f-038e5ea5d7aa: This server is Raft leader for term 2. Latest log index is 3.
+2017-07-28T10:31:10.169118000 1.250726s notice: A newer version of the RethinkDB server is available: 2.3.6. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2017-07-28T10:31:10.390542000 1.472182s info: Table 9b5bab9d-0735-47e0-bdaa-c11ef63618ea: Starting a new Raft election for term 2.
+2017-07-28T10:31:10.404070000 1.485710s info: Table 9b5bab9d-0735-47e0-bdaa-c11ef63618ea: This server is Raft leader for term 2. Latest log index is 3.
+2017-07-28T10:31:10.672994000 1.754635s info: Table ee0e8f46-c9d6-4fb5-ab4e-d570c8f12065: Starting a new Raft election for term 2.
+2017-07-28T10:31:10.680993000 1.762634s info: Table ee0e8f46-c9d6-4fb5-ab4e-d570c8f12065: This server is Raft leader for term 2. Latest log index is 3.
+2017-07-28T10:44:02.397714000 773.503158s notice: Server got SIGINT from pid 25694, uid 1637826892; shutting down...
+2017-07-28T10:44:02.397907000 773.503350s notice: Shutting down client connections...
+2017-07-28T10:44:02.398025000 773.503469s notice: All client connections closed.
+2017-07-28T10:44:02.398033000 773.503476s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-07-28T10:44:02.404712000 773.510156s notice: Storage engine shut down.
